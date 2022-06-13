@@ -1,9 +1,19 @@
 body {
     background: powderblue;
-    margin: 20;
+width: 100%; 
+height: 100%;
+margin: 0%
 }
 
-h1 {text-align: center;font-family:fantasy;}
-h2 {text-emphasis-style:initial ;}
+h1 {text-align: center;font-family: fantasy;}
+h4 {text-align: center;font-family: fantasy;}
+#p {text-align: center;
+    font-family: fantasy; 
+    background-color: white; 
+    opacity:0.5; 
+    margin-right: auto;
+    margin-left: auto;
+    max-width:625px;
+}
 
 
