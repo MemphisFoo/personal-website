@@ -30,5 +30,6 @@ quoteButton.addEventListener('click', () => {
         
     } else {
         generate.innerHTML = "No more quotes!";
+        quotBtn.innerHTML = "Go on, scram!";
     }
 })
