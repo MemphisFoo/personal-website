@@ -7,13 +7,26 @@ margin: 0%;
 
 h1,
 h4 {text-align: center;font-family: openSans;}
-#p {text-align: center;
-    font-family: openSans; 
-    background-color: white; 
-    opacity:0.6; 
+#quoteDisplay {font-family: openSans;
+    border: 2px solid black;
+    width:1000px;
+    min-height: auto;
+    padding:10px;
+    text-align: center;
     margin-right: auto;
     margin-left: auto;
     max-width:1000px;
 }
-
+#p {text-align: center;
+    font-family: openSans; font-size:13pt;
+    background-color: ghostwhite; 
+    opacity:0.8; 
+    margin-right: auto;
+    margin-left: auto;
+    max-width:1000px;
+}
+#quotBtn {position:absolute;
+    margin-left:48em;
+    width:150px
+}
 
