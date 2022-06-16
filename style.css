@@ -6,8 +6,9 @@ margin: 0%;
 }
 
 h1,
-h4 {text-align: center;font-family: openSans;}
+h3 {text-align: center;font-family: openSans;}
 #quoteDisplay {font-family: openSans;
+    font-size:16pt;
     border: 2px solid black;
     width:1000px;
     min-height: auto;
@@ -18,15 +19,16 @@ h4 {text-align: center;font-family: openSans;}
     max-width:1000px;
 }
 #p {text-align: center;
-    font-family: openSans; font-size:13pt;
+    font-family: openSans; font-size:18pt;
     background-color: ghostwhite; 
     opacity:0.8; 
     margin-right: auto;
     margin-left: auto;
-    max-width:1000px;
+    max-width:1300px;
 }
 #quotBtn {position:absolute;
-    margin-left:48em;
+    margin-left: 44em;
+    margin-right: 44em;
     width:150px
 }
 
