@@ -5,8 +5,7 @@ height: 100%;
 margin: 0%;
 }
 
-h1,
-h3 {text-align: center;font-family: openSans;}
+header {text-align: center;font-family: openSans;}
 #quoteDisplay {font-family: openSans;
     font-size:16pt;
     border: 2px solid black;
